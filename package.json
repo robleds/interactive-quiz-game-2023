@@ -1,11 +1,11 @@
 {
-  "name": "interactive-quiz-game-2023",
+  "name": "interactive-quiz-game",
   "version": "1.2.0",
   "description": "Coletar o feedback e as ideias do Revendedor para disponibilizar novos benefícios para trocar os pontos do Valoriza.",
   "homepage": "https://www.obatag.com.br",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SEU-USUARIO/interactive-quiz-game-2023.git"
+    "url": "https://github.com/robleds/interactive-quiz-game.git"
   },
   "private": true,
   "license": "ObaTag Copyrights 2023",
@@ -68,7 +68,7 @@
     ]
   },
   "author": {
-    "name": "interactive-quiz-game-2023",
+    "name": "interactive-quiz-game",
     "email": "robledo@doctorweb.com.br",
     "url": "http://doctorweb.com.br/"
   },

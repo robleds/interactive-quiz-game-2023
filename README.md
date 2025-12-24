@@ -1,4 +1,4 @@
-# Interactive Quiz Game 2023
+# Interactive Quiz Game
 
 Jogo de quiz interativo para eventos corporativos
 
@@ -22,8 +22,8 @@ Plataforma web interativa desenvolvida com React e Vite que oferece uma experiê
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/robleds/interactive-quiz-game-2023.git
-cd interactive-quiz-game-2023
+git clone https://github.com/robleds/interactive-quiz-game.git
+cd interactive-quiz-game
 ```
 
 2. Instale as dependências:
