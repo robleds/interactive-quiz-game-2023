@@ -1,17 +1,15 @@
-# interactive-quiz-game-2023
+# Interactive Quiz Game 2023
 
-Aplicação web interativa desenvolvida para o evento CS Online 2023.
+Jogo de quiz interativo para eventos corporativos
 
 ## 📋 Sobre o Projeto
 
-Aplicação web desenvolvida com React e Vite para o evento CS Online 2023, oferecendo uma experiência interativa para os participantes.
+Plataforma web interativa desenvolvida com React e Vite que oferece uma experiência gamificada para eventos. Os participantes podem responder perguntas, competir entre si e receber feedback em tempo real, tornando eventos mais engajadores e interativos.
 
 ## 🛠️ Tecnologias Utilizadas
 
+- **JavaScript** - Linguagem de programação
 - **React** - Biblioteca JavaScript para construção de interfaces
-- **TypeScript** - Superset do JavaScript com tipagem estática
-- **Vite** - Build tool e dev server
-- **Material-UI** - Biblioteca de componentes UI
 
 ## 🚀 Como Configurar
 
@@ -24,7 +22,7 @@ Aplicação web desenvolvida com React e Vite para o evento CS Online 2023, ofer
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU-USUARIO/interactive-quiz-game-2023.git
+git clone https://github.com/robleds/interactive-quiz-game-2023.git
 cd interactive-quiz-game-2023
 ```
 
@@ -50,20 +48,6 @@ yarn build
 # ou
 npm run build
 ```
-
-### Preview da Build
-```bash
-yarn preview
-# ou
-npm run preview
-```
-
-## 📝 Scripts Disponíveis
-
-- `yarn dev` - Inicia o servidor de desenvolvimento
-- `yarn build` - Cria build de produção
-- `yarn preview` - Preview da build de produção
-- `yarn lint` - Executa o linter
 
 ## 📄 Licença
 
