@@ -1,0 +1,53 @@
+{
+  "name": "Valoriza CS Online",
+  "short_name": "CSOnline",
+  "description": "Coletar o feedback e as ideias do Revendedor para disponibilizar novos benefícios para trocar os pontos do Valoriza.",
+  "theme_color": "#792b7e",
+  "background_color": "#792b7e",
+  "start_url": ".",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "cache": [
+    {
+      "url": "assets/01_Interface_CSOnline_Cena_01_Loop_4_2.mp4",
+      "revision": "1"
+    },
+    {
+      "url": "assets/02_Interface_CSOnline_Cena_02_2.mp4",
+      "revision": "1"
+    },
+    {
+      "url": "assets/03_Interface_CSOnline_Cena_03_CSTour_3.mp4",
+      "revision": "1"
+    },
+    {
+      "url": "assets/02a_Interface_CSOnline_Valoriza_3.mp4",
+      "revision": "1"
+    },
+    {
+      "url": "assets/04_Interface_CSOnline_Consumidor_2.mp4",
+      "revision": "1"
+    },
+    {
+      "url": "assets/04_Interface_CSOnline_Novidades_Final_v02_3.mp4",
+      "revision": "1"
+    }
+  ]
+}
